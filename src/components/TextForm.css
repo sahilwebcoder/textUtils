@@ -1,0 +1,36 @@
+.textForm-container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.textForm-container h1 {
+  font-size: 25px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.textForm-container textarea {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 100%;
+  min-height: 300px;
+  padding: 10px;
+}
+
+.textForm-container button {
+  padding: 8px 12px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+.textForm-container button:hover {
+  background-color: rgb(50, 50, 243);
+}
+
+.textFormBig-Container{
+  width: 100vh;
+  height: 100vh;
+}
